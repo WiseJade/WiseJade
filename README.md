@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. 웹 백엔드 개발자로 공부중입니다.
 
 <!--
 **WiseJade/WiseJade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
