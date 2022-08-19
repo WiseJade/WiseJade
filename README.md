@@ -1,7 +1,8 @@
-### 안녕하세요. 웹 백엔드 개발자로 공부중입니다.
-
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=f7cac9&height=300&section=header&%20render&fontSize=50&text=Hyerin%20Jeon%20%28WiseJade%29&fontColor=FAFAD5)
-
+<br />
+<br />
+## Welcome!
+### 현재 웹 백엔드 개발자 공부 중입니다.
 
 
 
