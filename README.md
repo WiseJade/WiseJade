@@ -1,9 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=F8AA95&height=300&section=header&%20render&fontSize=50&text=Hyerin%20Jeon%20%28WiseJade%29&fontColor=F9F3F2&animation=fadeIn&theme=gruvbox)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FAB0AF&height=300&section=header&%20render&fontSize=50&text=Hyerin%20Jeon%20%28WiseJade%29&fontColor=FBF4F2&animation=fadeIn)
 <br />
 <br />
 ## Welcome!
 ### 현재 웹 백엔드 개발자 공부 중입니다.
+</br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiseJade&theme=panda)
 
 
 
