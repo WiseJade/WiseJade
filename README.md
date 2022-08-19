@@ -7,6 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiseJade&theme=panda)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WiseJade&layout=compact)
 
 
 <!--
