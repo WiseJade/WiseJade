@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=C99D50&height=300&section=header&%20render&fontSize=50&text=Hyerin%20Jeon%20%28WiseJade%29&fontColor=FCFCF1&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=F8AA95&height=300&section=header&%20render&fontSize=50&text=Hyerin%20Jeon%20%28WiseJade%29&fontColor=F9F3F2&animation=fadeIn&theme=gruvbox)
 <br />
 <br />
 ## Welcome!
