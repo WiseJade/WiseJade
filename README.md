@@ -1,13 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FAB0AF&height=300&section=header&%20render&fontSize=50&text=Hyerin%20Jeon%20%28WiseJade%29&fontColor=FBF4F2&animation=fadeIn)
-<br />
-<br />
+<br>
+<br>
+
 ## Welcome!
-### 현재 웹 백엔드 개발자 공부 중입니다.
-</br>
+
+### 💻 현재 웹 백엔드 공부 중입니다.
+
+<br>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiseJade&theme=panda)
 
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WiseJade&layout=compact)
+
+<br>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wisejade)](https://github.com/anuraghazra/github-readme-stats)
 
