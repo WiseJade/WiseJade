@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FAB0AF&height=300&section=header&%20render&fontSize=50&text=Hyerin%20Jeon&fontColor=FBF4F2&animation=fadeIn)
-<br>
-<br>
+
 
 ## Welcome!
 
