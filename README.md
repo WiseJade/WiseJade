@@ -30,23 +30,26 @@
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black">
   <img src="https://img.shields.io/badge/yolo-111F68?style=for-the-badge&logo=yolo&logoColor=white">
 </div>
-
-<br>
-<br>
-<br>
-<br>
 <div>
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
+  <img src="https://img.shields.io/badge/slack-000000?style=for-the-badge&logo=slack&logoColor=white"> 
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+</div>
+<br>
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiseJade&theme=panda)
 
-<br>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WiseJade&layout=compact)
 
-<br>
 
   
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wisejade)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+
 
