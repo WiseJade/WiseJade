@@ -1,3 +1,14 @@
+## About Me
+
+Hi 👋
+
+I'm a full-stack developer specializing in cross-platform mobile and server development.
+
+I also enjoy building websites from time to time.
+
+When it comes to infrastructure, my go-to is AWS, and I currently hold the AWS SAA-C03 certification.
+
+<br>
 <div>
   <h2><strong>Tech Stacks</strong></h2>
 </div>
@@ -39,17 +50,16 @@
 <br>
 
 
+## Activity Overview
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=wisejade&theme=ambient_gradient)](https://github.com/stats-organization/github-stats-extended)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiseJade&theme=panda)
+<br>
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=WiseJade&layout=donut-vertical&langs_count=4&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=WiseJade&layout=donut-vertical&langs_count=4&theme=ambient_gradient)
 
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WiseJade&layout=compact)
-
-
-  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wisejade)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=WiseJade&layout=compact&langs_count=6&theme=ambient_gradient)](https://wakatime.com/@WiseJade)
 
 
